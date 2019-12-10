@@ -1,0 +1,11 @@
+{
+  "name": "js-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "main": "node src/main.js",
+    "main2": "node src/main2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
